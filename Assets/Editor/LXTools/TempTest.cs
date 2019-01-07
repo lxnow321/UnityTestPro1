@@ -63,7 +63,7 @@ public class Serialization<T>
 
 class LXTools
 {
-    [MenuItem("测试/测试")]
+    [MenuItem("LXTools/测试")]
     public static void Test()
     {
         Debug.LogError("测试");

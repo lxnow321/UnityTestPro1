@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08ecf4827a1f8e9439147fd8d8b77d11
+timeCreated: 1513761316
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _SplatTex: {instanceID: 0}
+  - _Ramp: {fileID: 2800000, guid: 202a0ff570c5f01479895e6c644503a6, type: 3}
+  - _SpecularAL: {instanceID: 0}
+  - _EmissionTex: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
